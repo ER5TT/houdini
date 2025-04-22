@@ -1,4 +1,4 @@
-# Intel's libhoudini for Intel x86 CPU, pulled from MUMU
+# Intel's libhoudini for Intel x86 CPU, pulled from `MUMU 11`
 
 `houdini` version = 11.0.1_y.51845.m
 
